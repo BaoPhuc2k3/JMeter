@@ -46,4 +46,4 @@ Dựa trên kết quả phân tích, đưa ra kết luận về hiệu năng c�
 - Thời gian phản hồi trung vị: 7,1 ms
 - Chuyển tải: 10 yêu cầu/giây
 # Kết luận:
-    Trang web https://facebook.com/ có hiệu năng tốt. Số lượng yêu cầu thành công rất cao (99,9%), số lượng yêu cầu thất bại rất thấp (0,1%).
+Trang web https://facebook.com/ có hiệu năng tốt. Số lượng yêu cầu thành công rất cao (99,9%), số lượng yêu cầu thất bại rất thấp (0,1%).
